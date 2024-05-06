@@ -1,0 +1,65 @@
+% sidebar_template.tex
+
+\documentclass{article}
+
+\usepackage[letterpaper, margin=1in]{geometry} % Set page size and margins
+\usepackage{paracol}  % Package for parallel columns
+\usepackage{hyperref}
+\usepackage{titlesec} % Package for modifying section titles
+
+% Define the 'narrow' environment
+\newenvironment{narrow}{%
+  \list{}{%
+    \setlength{\leftmargin}{0em}% Adjust the left margin as needed
+    \setlength{\rightmargin}{9em}% Adjust the right margin as needed
+  }%
+\item\relax
+}{%
+  \endlist
+}
+
+% Define the 'wide' environment
+\newenvironment{wide}{%
+  \list{}{%
+    \setlength{\leftmargin}{-6em}% Adjust the left margin as needed
+    \setlength{\rightmargin}{0em}% Adjust the right margin as needed
+  }%
+\item\relax
+}{%
+  \endlist
+}
+
+% Define the '\tightlist' command
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Redefine sectioning commands to remove numbering
+\titleformat{\section}[hang]{\normalfont\Large\bfseries}{}{0em}{}
+\titleformat{\subsection}[hang]{\normalfont\large\bfseries}{}{0em}{}
+\titleformat{\subsubsection}[hang]{\normalfont\normalsize\bfseries}{}{0em}{}
+\titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{}{0em}{}
+\titleformat{\subparagraph}[hang]{\normalfont\normalsize\bfseries}{}{0em}{}
+
+\begin{document}
+
+\begin{center}
+  \input{title.tex}
+\end{center}
+
+\begin{paracol}{2} % Define two parallel columns
+  % Left column for sidebar content
+  \begin{narrow}
+    % Include content from exported sidebar Org file
+    \input{sidebar.tex} 
+  \end{narrow}
+
+  \switchcolumn
+  
+  % Right column for main content
+  \begin{wide}
+    \input{main.tex}  % Include main content directly
+  \end{wide}
+
+\end{paracol}
+
+\end{document}

@@ -1,0 +1,54 @@
+#+title: Sidebar CV
+
+* Habilidades
+
+** Lenguajes de Programación
+- *Javascript* (Full Stack ES11+)
+- *C++* (Algoritmos, estructuras de datos y OOP)
+- *Python* (Scripting y manipulación Excel)
+
+** Frameworks
+- *React JS* (Front End Ecommerce)
+- *Express JS* (Back End Ecommerce)
+- *Python Flask* (Control de asistencia integrado con Odoo)
+
+** Bases de Datos
+- *MongoDB*
+- *PostgreSQL*
+
+** Cloud
+- *Google Firebase* (Firestore backend)
+
+** Sistemas Embebidos
+- *Arduino* (Comunicación RF, RFID, Sensores de movimiento y servomotores)
+- *Nodemcu* (Web server, consumo APIs y mesh network)
+
+** Diseño
+- *HTML5* (elementos semanticos, local storage y web forms), *CSS3* (responsive design, dark mode y animaciones), *SASS*
+- *Figma* (Prototipos con animaciones)
+- *Suite Adobe* (Vasta experiencia en Diseño Gráfico)
+- *Inkscape* (Prefiero usar software libre)
+- *Blender 3D* (Trabajé en proyectos de animación para videos musicales)
+- *Spline 3D* (Integración web directa o con Three.js)
+- *Unity 3D* (Hice un FPS como proyecto de arte)
+
+** Administración de Sistemas
+- *Linux avanzado* (Daily driver Gentoo)
+- *Filesystems*, software *RAID* con BTRFS y ZFS
+- *Package managers*: portage, pacman, zypper, apt, *npm*
+- *Bash scripting* y *POSIX shell* con dominio de coreutils, *sed* y *awk*
+- *Bases de datos* PostgreSQL, MongoDB, Redis, migración, backups y upgrades
+- *Virtualización* con QEMU KVM y libvirt
+- *Servicios* con Systemd, OpenRC y s6-init
+- *Samba* shares
+- *Nginx*
+- *Mail* con postfix y dovecot
+
+** Marketing
+- *SEO*
+- *Paid Media* (Google y Facebook Ads)
+  
+** Idiomas
+- *Español* (nativo)
+- *Inglés* (bilingüe)
+- *Chino* (básico)
