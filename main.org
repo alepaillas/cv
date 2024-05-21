@@ -1,14 +1,109 @@
 #+title: Main CV
 
-* Experiencia Laboral
-** IntegraMundo SpA | Renca, RM
+** _Experiencia Laboral_
+*** IntegraMundo SpA | Renca, RM
 /Diseñadora Web | Agosto 2023 - Presente/
 
-* Educación
+- Diseñé la nueva página web de IntegraMundo, como también todo el
+  material de marketing para la empresa.
+
+- Programé segun requerimientos: nuevas funciones para la web con
+  Javascript / HTML y CSS; macros VBA para automatización en Microsoft
+  Excel; scripts Python para automatizaciones en Odoo y Excel.
+
+- Lideré la implementación del ERP Odoo, migrando datos desde Shopify
+  y RelBase.
+
+- Capacité en el uso de Odoo a los distintos equipos de la empresa.
+
+- Gestioné campañas de anuncios con Google Ads y Facebooks Ads.
+
+- Administré los servicios web de la empresa, como servidores Linux
+  para mail, web y control de asistencia.
+
+- Produje animaciones 3D utilizando Blender para marketing y mockups
+  de nuevos productos.
+  
+- Implementé campañas de mass mailing.
+
+- Fotografié y grabé en video: catálogo; comerciales; capacitaciones;
+  visitas a ferias empresariales, étc.
+
+- Solucioné problemas de soporte técnico según necesidades diarias,
+  como instalación de S.O., servicios de red y errores de capa 8.
+
+_Logros_
+
+- Desarrollé un control de asistencia electrónico basado en un
+  microcontrolador esp8266 y la API de Odoo.
+
+- Automaticé flujos de procesamiento de imágenes utilizando Bash
+  scripts en Windows Subsystem for Linux.
+
+- Integré servicios de analítica a la web usando Google Tag Manager,
+  permitiendo enfocar campañas en la captación de nuevos clientes.
+
+- Disminuí en un 300% los costos en anuncios de búsqueda, consiguiendo
+  un CTR de 19% con conversiones similares.
+
+- Posicioné la web en el top 10 SERP para 3 de las palabras claves más
+  importantes mediante técnicas SEO.
+
+- Realicé el kit de marca de la empresa, asegurando la consistencia de
+  colores y estilos en nuestras producciones.
+
+*** Pontificia Universidad Católica de Chile | Providencia, RM
+/Profesora Auxiliar | Marzo 2023 - Presente/
+
+- Dicté cátedras relativas a historia del arte, estética,
+  procedimientos de dibujo y pensamiento visual.
+
+- Evalué el desempeño de los alumnos a partir de rúbricas, su
+  trayectoria académica y habilidades particulares.
+
+- Guié a los alumnos a través de sus proyectos de investigación
+  gráfica, reconociendo sus fortalezas, debilidades, logros y
+  oportunidades en sus procesos.
+
+- Planifiqué el programa clase a clase de la asignatura.
+
+- Organicé las actividades y tiempos asociados dentro del aula.
+
+- Colaboré con el profesor adjunto en las discusiones grupales del
+  taller de obra.
+
+_Cursos Realizados_
+
+- Dibujo, Espacio y Entorno
+- Proyectos de Investigación Gráfica
+- Dibujo Experimental
+  
+** Educación
+*Coderhouse*
+
+/Carrera de Desarrollo Full Stack. 2023 - Presente./
+
 *Pontificia Universidad Católica de Chile*
 
-/Licenciatura en Arte. Certificado Imagen Pictórica. Titulada Año 2023/
+/Licenciatura en Arte. Certificado Imagen Pictórica. Titulada Año 2023./
 
 *Universidad de Chile*
 
-/Ingeniería en Sonido. 2015 - 2018/
+/Ingeniería en Sonido. 2015 - 2018./
+
+*** Certificados
+*Coderhouse*
+
+/Carrera de Desarollo Frontend React. Certificada Febrero 2024./
+[[https://www.coderhouse.com/cl/certificados/65e9c63baa1a7d7bdf82db1b?lang=es][Certificado Online]]
+
+*UC Santa Cruz*
+
+/C for Everyone: Structured Programming. Completed May 2021./
+[[https://coursera.org/share/633ff102dfef6620e6abd30bd41bfa5a][Certificado Online]]
+
+/C For Everyone: Programming Fundamentals. Completed May 2021./
+[[https://coursera.org/share/6099f88e8dcdae68a4fff7581ea9d7f9][Certificado Online]]
+
+** Repositorios
+[[https://github.com/alepaillas][GitHub]]

@@ -13,7 +13,7 @@
 - *Python Flask* (Control de asistencia integrado con Odoo)
 
 ** Bases de Datos
-- *MongoDB*
+- *MongoDB* (Atlas y local con Mongoose)
 - *PostgreSQL*
 
 ** Cloud
