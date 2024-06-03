@@ -21,6 +21,10 @@ function compile_pdf() {
   #pandoc "${main_content_file%.*}.tex" "${sidebar_content_file%.*}.tex" -o "$output_file" \
       #       --latex --variable class="$class_file"
   pdflatex "$template_file"
+  # Remove .tex extension from template filename and store in temp variable
+  temp_filename=$(echo "$template_file" | sed 's/\.tex$//')
+  # Move generated PDF to output filename
+  mv "$temp_filename.pdf" "$output_file"
 }
 
 # Watch for file changes using inotifywait

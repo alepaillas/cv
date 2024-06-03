@@ -27,7 +27,7 @@
 - Implementé campañas de mass mailing.
 
 - Fotografié y grabé en video: catálogo; comerciales; capacitaciones;
-  visitas a ferias empresariales, étc.
+  visitas a ferias empresariales, etc.
 
 - Solucioné problemas de soporte técnico según necesidades diarias,
   como instalación de S.O., servicios de red y errores de capa 8.
@@ -44,7 +44,7 @@ _Logros_
   permitiendo enfocar campañas en la captación de nuevos clientes.
 
 - Disminuí en un 300% los costos en anuncios de búsqueda, consiguiendo
-  un CTR de 19% con conversiones similares.
+  un CTR de 18% con conversiones similares.
 
 - Posicioné la web en el top 10 SERP para 3 de las palabras claves más
   importantes mediante técnicas SEO.
@@ -74,9 +74,9 @@ _Logros_
 
 _Cursos Realizados_
 
-- Dibujo, Espacio y Entorno
-- Proyectos de Investigación Gráfica
-- Dibujo Experimental
+- Dibujo Experimental. 1er semestre 2024.
+- Proyectos de Investigación Gráfica. 2do semestre 2023.
+- Dibujo, Espacio y Entorno. 1er Semestre 2023.
   
 ** Educación
 *Coderhouse*
@@ -99,11 +99,11 @@ _Cursos Realizados_
 
 *UC Santa Cruz*
 
+/C++ For C Programmers, Part A. Completed June 2024./
+[[https://coursera.org/share/e84bcfd66ace8d117c64b95614caa30d][Certificado Online]]
+
 /C for Everyone: Structured Programming. Completed May 2021./
 [[https://coursera.org/share/633ff102dfef6620e6abd30bd41bfa5a][Certificado Online]]
 
 /C For Everyone: Programming Fundamentals. Completed May 2021./
 [[https://coursera.org/share/6099f88e8dcdae68a4fff7581ea9d7f9][Certificado Online]]
-
-** Repositorios
-[[https://github.com/alepaillas][GitHub]]
