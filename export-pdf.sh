@@ -1,10 +1,12 @@
 #!/bin/bash
 
+cd ./desarrollador-front-end
+output_file="paillas-cv-desarrollador-front-end.pdf"
+
 # Define file paths (adjust as needed)
 main_content_file="main.org"
 sidebar_content_file="sidebar.org"
 title_content_file="title.org"
-output_file="output.pdf"
 template_file="sidebar_template.tex"
 
 # Function to convert Org files to Latex
@@ -26,6 +28,8 @@ function compile_pdf() {
   # Move generated PDF to output filename
   mv "$temp_filename.pdf" "$output_file"
 }
+
+compile_pdf
 
 # Watch for file changes using inotifywait
 while true; do
