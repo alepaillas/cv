@@ -1,7 +1,11 @@
 #!/bin/bash
 
-cd ./desarrollador-front-end
-output_file="paillas-cv-desarrollador-front-end.pdf"
+# cd ./desarrollador-full-stack
+# output_file="paillas-cv-desarrollador-full-stack.pdf"
+# cd ./desarrollador-front-end
+# output_file="paillas-cv-desarrollador-front-end.pdf"
+cd ./diseñadora-web
+output_file="paillas-cv-diseñadora-web.pdf"
 
 # Define file paths (adjust as needed)
 main_content_file="main.org"
