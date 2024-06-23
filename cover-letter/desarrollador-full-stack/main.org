@@ -1,0 +1,64 @@
+#+title: Carta de Presentación Desarrollador Full Stack
+
+* Carta de Presentación Desarrollador Full Stack
+
+Estimado/a reclutador/a,
+
+Me dirijo a usted con gran entusiasmo para postularme al cargo de
+Desarrolladora Full Stack. Actualmente, soy Diseñadora Web en
+IntegraMundo SpA, donde he combinado habilidades técnicas y creativas
+en un entorno diverso. Busco crecer hacia el desarrollo full stack y
+trabajar en equipos ágiles, colaborando con otros profesionales para
+aprender y mejorar continuamente.
+
+Mi formación académica es de Desarolladora Full Stack MERN en
+Coderhouse y soy licenciada en Arte de la Pontificia Universidad
+Católica de Chile. Aunque mi formación en Arte pueda parecer inusual
+para un rol de desarrollo, aporta una perspectiva única y valiosa. La
+creatividad y la atención al detalle desarrolladas a través del arte
+me permiten abordar problemas conceptuales de manera innovadora y
+diseñar interfaces atractivas.
+
+** Preguntas y Respuestas (Q&A)
+
+*P: ¿Por qué deseas cambiar de empleo?*
+
+*R:* Si bien estoy satisfecha en mi trabajo actual y mi empresa me
+valora mucho, busco ganar experiencia trabajando directamente con
+código en equipos ágiles.
+
+*P: ¿Cuál es tu disponibilidad y modalidad de trabajo?*
+
+*R:* Estoy disponible para trabajar *full-time* en modalidad *presencial*,
+*remota* o *híbrida*. Necesito dar un aviso de dos semanas a mi empleador
+actual. También estoy disponible para cargos part-time o pasantías si
+prefieren que inicie de esa manera.
+
+*P: ¿Tienes experiencia relevante no mencionada en tu CV?*
+
+*R:* Sí, he trabajado como *freelancer* durante más de _4 años_ en
+diseño gráfico, ingeniería de sonido y como artista visual, ganando
+experiencia significativa en estos campos.
+
+*P: ¿Cuál es tu expectativa salarial?*
+
+*R:* Mi expectativa salarial es entre $800,000 y $1,200,000,
+dependiendo de las responsabilidades y la modalidad de trabajo
+ofrecida por la empresa.
+
+Agradezco su tiempo y consideración. Estoy entusiasmada con la
+posibilidad de aportar mi experiencia y habilidades a su empresa y
+crecer profesionalmente en un entorno dinámico y colaborativo. Adjunto
+mi currículum para su revisión y espero con interés la oportunidad de
+discutir cómo puedo contribuir a su equipo.
+
+Atentamente,
+
+*Alejandra Victoria Paillas Villavicencio*
+
+*Las Condes, Santiago, Chile*
+
+*contacto@alepaillas.com*
+
+*+56 9 6160 0030*
+

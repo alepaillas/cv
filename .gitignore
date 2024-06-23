@@ -5,3 +5,7 @@ title.tex
 sidebar_template.aux
 sidebar_template.log
 sidebar_template.out
+main_template.aux
+main_template.log
+main_template.out
+*.log
